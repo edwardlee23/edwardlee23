@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edwardlee23
+- 👋 Hi, I’m Edward Lee
 - 👀 I’m interested in back end skills
 - 🌱 I’m currently learning data structures, algorithms and design patterns
 

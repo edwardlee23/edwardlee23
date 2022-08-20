@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwardlee23
-- 👀 I’m interested in pc game
+- 👀 I’m interested in back end skills
 - 🌱 I’m currently learning data structures, algorithms and design patterns
 
 <!---

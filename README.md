@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward Lee
 - 👀 I’m interested in back end skills
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning clean code.
 
 <!---
 edwardlee23/edwardlee23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

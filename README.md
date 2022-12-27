@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edward Lee.
-- 👀 I’m interested in Python.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning FastAPI.
 
 <!---
